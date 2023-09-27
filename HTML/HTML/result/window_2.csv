@@ -1,0 +1,7 @@
+candidate,sentiment,tweet_count,word,word_count
+asa hutchinson,0.0,0,,
+biden,-0.08464864265927985,1805,hunter,181.0
+marianne williamson,0.8395,2,williamson:,2.0
+nikki haley,-0.11352499999999999,12,she’s,4.0
+ramaswamy,0.0006694915254237191,59,vivekgramaswamy,18.0
+trump,-0.01648940429687498,2048,&amp;,120.0

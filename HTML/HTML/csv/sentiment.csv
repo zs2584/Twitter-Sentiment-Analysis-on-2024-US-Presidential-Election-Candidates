@@ -1,0 +1,61 @@
+candidate,index,sentiment
+asa hutchinson,1,0
+asa hutchinson,2,0
+asa hutchinson,3,-0.5371
+asa hutchinson,4,-0.5371
+asa hutchinson,5,-0.106066667
+asa hutchinson,6,0
+asa hutchinson,7,0
+asa hutchinson,8,0
+asa hutchinson,9,-0.372925
+asa hutchinson,10,0
+biden,1,-0.098751376
+biden,2,-0.084648643
+biden,3,-0.096149744
+biden,4,-0.082272842
+biden,5,-0.087931623
+biden,6,-0.076596966
+biden,7,-0.075663323
+biden,8,-0.092371952
+biden,9,-0.051677192
+biden,10,-0.081109897
+marianne williamson,1,0
+marianne williamson,2,0.8395
+marianne williamson,3,0
+marianne williamson,4,0
+marianne williamson,5,0.4404
+marianne williamson,6,0.4404
+marianne williamson,7,0.4404
+marianne williamson,8,0.447606667
+marianne williamson,9,0.4404
+marianne williamson,10,0.4404
+nikki haley,1,-0.2423
+nikki haley,2,-0.113525
+nikki haley,3,-0.5521
+nikki haley,4,-0.52938
+nikki haley,5,-0.22928
+nikki haley,6,-0.101138462
+nikki haley,7,-0.032033333
+nikki haley,8,-0.2893125
+nikki haley,9,0.2294
+nikki haley,10,0
+ramaswamy,1,0.184935484
+ramaswamy,2,0.000669492
+ramaswamy,3,0.082795455
+ramaswamy,4,0.099825424
+ramaswamy,5,0.073127027
+ramaswamy,6,0.08541
+ramaswamy,7,0.056282353
+ramaswamy,8,0.046154688
+ramaswamy,9,0.103706557
+ramaswamy,10,0.126391667
+trump,1,-0.002529719
+trump,2,-0.016489404
+trump,3,-0.027884088
+trump,4,-0.039132661
+trump,5,-0.055530589
+trump,6,-0.032537056
+trump,7,-0.035768147
+trump,8,-0.040784981
+trump,9,-0.017213017
+trump,10,-0.031642351
